@@ -2,8 +2,8 @@
 
 ## 开发与运行环境
 ### IDE
-- Visual Stadio 2017/Visual Stadio 2019
-- Visual Stadio Core
+- Visual Studio 2017/Visual Stadio 2019
+- Visual Studio Core
 
 ### Docker 和 Docker-Compose
 1. 通过[docker官网](https://hub.docker.com/editions/community/docker-ce-desktop-windows)下载并安装docker for windows,安装完
